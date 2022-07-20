@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
+domain: matteolombardi.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://matteolombardi.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 title: Matteo Lombardi's homepage
 description: Bookmark this to keep an eye on my project updates!
